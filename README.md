@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-la-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-noche/) |
+| **Get License** | [Obtain a Music License for Deseo en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `51ae1d525cb14d39b74d2f843957e23f9a08f82d02f43ca8ddfd5393768ff55c` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en la noche
+
+This log tracks the cryptographic history and versioning for the song **Deseo en la noche** (deseo-en-la-noche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:59:37.035029 | `v1` | `51ae1d525cb14d39b74d2f843957e23f9a08f82d02f43ca8ddfd5393768ff55c` | `38c6778d58c2876ce9e0cc9d2d9e5cb1792cdba34f1dd8f9b00cfe3d985330b9` | `2026-06-22_deseo-en-la-noche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
