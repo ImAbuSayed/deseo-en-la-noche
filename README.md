@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-la-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Deseo en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-noche/) |
+| **Get License** | [Request Licensing for Deseo en la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La luna nos mira desde el cristal,
+> Tu flow y mi vibra son algo letal.
+> Me tienes sediento buscando tu piel,
+> Baby, esta noche rompemos el nivel.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
